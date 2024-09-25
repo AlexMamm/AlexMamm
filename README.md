@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Hello there!
 
-<!--
-**AlexMamm/AlexMamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **[Alex]**, an enthusiastic **ML Engineer**. I love exploring how AI can solve real-world problems, and I'm constantly learning and sharing knowledge in these fields.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Areas of Interest
+- 🧠 **NLP** – Natural Language Processing
+- 📚 **LLM** – Large Language Models
+- ⚙️ **MLOps** – Model Deployment & Monitoring
+
+---
+
+### 🔧 Technologies & Tools
+- Python 🐍, PyTorch ⚡
+- FastAPI 🚀, Docker 🐳, Kubernetes ☸️
+- Airflow 🌬️, MLflow 📊
+- Grafana 📊, Prometheus 📈
+- PostgreSQL 🐘, MongoDB 🍃, Redis 🟥
+
+---
+
+### 🚀 What I’m currently working on:
+- Building scalable NLP models for real-time text analysis.
+- Experimenting with the latest LLM technologies for better language understanding.
+- Optimizing MLOps pipelines for production-ready models.
+
+---
