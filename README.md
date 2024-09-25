@@ -1,6 +1,6 @@
 ## 👋 Hello there!
 
-I'm **[Alex]**, an enthusiastic **ML Engineer**. I love exploring how AI can solve real-world problems, and I'm constantly learning and sharing knowledge in these fields.
+I'm **Alex**, an enthusiastic **ML Engineer**. I love exploring how AI can solve real-world problems, and I'm constantly learning and sharing knowledge in these fields.
 
 ---
 
